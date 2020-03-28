@@ -1,7 +1,7 @@
-# BeTheHero **FRONT-END** - *OminiStack 11.0*
+# BeTheHero **Mobile** - *OminiStack 11.0*
 ![](readme_assets/logo.svg)
 
-## [VISUALIZAR ESTÁTICA NA LOJA DO EXPO](http://honassis.github.io/BeTheHero-FrontEnd)
+## [VISUALIZAR APP ESTÁTICO NA LOJA EXPO](https://expo.io/@holopz/bethehero)
 
 ## [VISUALIZAR PARTE FRONT-END](https://github.com/honassis/BeTheHero-FrontEnd)
 ## [VISUALIZAR PARTE BACK-END](https://github.com/honassis/BeTheHero-BackEnd)
