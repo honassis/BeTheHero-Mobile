@@ -3,7 +3,7 @@
 
 ## [VISUALIZAR ESTÁTICA NA LOJA DO EXPO](http://honassis.github.io/BeTheHero-FrontEnd)
 
-## [VISUALIZAR PARTE FRONT-END](https://github.com/honassis/BeTheHero-Mobile)
+## [VISUALIZAR PARTE FRONT-END](https://github.com/honassis/BeTheHero-FrontEnd)
 ## [VISUALIZAR PARTE BACK-END](https://github.com/honassis/BeTheHero-BackEnd)
 > contato: honassislopes@gmail.com
 
