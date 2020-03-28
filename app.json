@@ -28,6 +28,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Projeto Semana Oministack 11",
+    "githubUrl": "https://github.com/honassis/BeTheHero-Mobile"
   }
 }
